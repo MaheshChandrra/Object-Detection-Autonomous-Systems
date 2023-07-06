@@ -1,0 +1,38 @@
+
+####################################################################################
+
+Date - 08/09/2022
+Project  - 3D Object Detection and Evaluation
+Subject  - CMPE-249
+Semester - Summer 22
+
+Author   - Mareedu Mahesh Chandra
+E-mail   - maheshchandra.mareedu@sjsu.edu
+
+Mentors  - Professor Dr.Kaikai Liu
+           Professor Dr.Wencen Wu
+		   
+University - San Jose State University
+
+
+####################################################################################
+
+Common Directory path
+	/data/cmpe249-fa22/Mahesh_Mareedu/mahesh_mmdetection3d/
+
+Local Directory Path
+	/home/014615510/mmdetection3d
+
+Files of Importance
+	Notebooks for Training
+		/data/cmpe249-fa22/Mahesh_Mareedu/mahesh_mmdetection3d/PointPillars_WaymoKitti.ipynb
+		/data/cmpe249-fa22/Mahesh_Mareedu/mahesh_mmdetection3d/second_sec_fpn_waymo_D5.ipynb
+
+	Notebooks for Testing
+		/data/cmpe249-fa22/Mahesh_Mareedu/mahesh_mmdetection3d/PointPillars_Waymo_kitti_Testing.ipynb
+		/data/cmpe249-fa22/Mahesh_Mareedu/mahesh_mmdetection3d/SECOND Testing.ipynb
+
+	Notebook for Visualization
+		/data/cmpe249-fa22/Mahesh_Mareedu/mahesh_mmdetection3d/Waymo-Kitti Predictions and Visualizations.ipynb
+		
+####################################################################################
